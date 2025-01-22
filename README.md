@@ -162,7 +162,7 @@ Jobsforce/
 
 ## Deployment Links
 - **Frontend:** [http://ec2-35-154-240-63.ap-south-1.compute.amazonaws.com/)
-- **Backend API:** [http://ec2-35-154-240-63.ap-south-1.compute.amazonaws.com:5000)
+- **Backend API:** [http://ec2-35-154-240-63.ap-south-1.compute.amazonaws.com:5000/extract)
 
 ---
 
